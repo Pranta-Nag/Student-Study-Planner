@@ -33,9 +33,9 @@ class Greeting extends StatelessWidget {
                       Row(
                         children: [
                           Text(
-                            "Aarav",
+                            "Pranta",
                             style: TextStyle(
-                              fontSize: 30,
+                              fontSize: 26,
                               fontWeight: FontWeight.bold,
                             ),
                           ),

@@ -9,7 +9,6 @@ class HomeDashboardView extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      // The main home view explicitly keeps your design's specific AppBar
       appBar: AppBar(
         backgroundColor: Colors.white,
         elevation: 0,
